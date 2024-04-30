@@ -24,7 +24,9 @@ Emotion recognition is an important task in various fields including human-compu
 
 ## Example
 
-![Example](https://github.com/Taitilchheda/Emotion-Recognition/blob/main/emotion_recognition_example.png)
+![Example](https://github.com/Taitilchheda/Emotion-Recognition/blob/main/test1.png)
+
+Here's an example of emotion recognition using our model. The image depicts a person displaying the emotion of surprise, and our machine learning model accurately detects it. 
 
 ## Acknowledgements
 
